@@ -1,8 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
+
 package GUI;
 
 //import BUS.CreateContract;
@@ -39,9 +35,6 @@ public class NhanVienGUI extends javax.swing.JFrame {
         this.pack();
         setLocationRelativeTo(null);
         setExtendedState(this.MAXIMIZED_BOTH);
-        
-       
-        //setLocationRelativeTo(null);
         //======================================================================
         //Begin TabQuanLyCuDan
         //======================================================================
